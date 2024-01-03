@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
         vector<int> collectionSize = {32};
         const vector<vector<string>> layerDir = 
         {
-        {"1-bg", "2-skin", "3-eyes", "4-mouth", "5-hair", "6-hat","7-wardrobe"}
+        {"1-bg", "7-wardrobe","2-skin", "5-hair", "3-eyes", "4-mouth", "6-hat"}
         };
         
         const string name = "SUrrty Peasy YouTube test";

@@ -2,37 +2,37 @@
 	 "name":"SUrrty Peasy YouTube test #14",
 	 "description":"i love u",
 	 "image":"https://twittercom/elonmusk/14.gif",
-	 "dna": " 10 9 1 5 0 6 0 ",
+	 "dna": " 8 3 6 1 0 5 4 ",
 	 "edition":"14",
-	 "date":"1704240415",
+	 "date":"1704269718",
 	 "attributes": [
 	 	 {
 	 	 	 "trait_type": "1-bg",
-	 	 	 "value": "olive.gif"
+	 	 	 "value": "grey.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "7-wardrobe",
+	 	 	 "value": "pirate.gif"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "2-skin",
-	 	 	 "value": "witch.gif"
+	 	 	 "value": "pink.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "5-hair",
+	 	 	 "value": "bluebram.gif"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-eyes",
-	 	 	 "value": "blackblink.gif"
+	 	 	 "value": "3Dglasses.gif"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "4-mouth",
 	 	 	 "value": "pipe.gif"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "5-hair",
-	 	 	 "value": "blackbob.gif"
-	 	 },
-	 	 {
 	 	 	 "trait_type": "6-hat",
-	 	 	 "value": "winky.gif"
-	 	 },
-	 	 {
-	 	 	 "trait_type": "7-wardrobe",
-	 	 	 "value": "king.gif"
+	 	 	 "value": "kettle.gif"
 	 	 }
 	 ],
 	 "Compiler": "CeloPunks compiler",

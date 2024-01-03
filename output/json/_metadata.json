@@ -3,17 +3,25 @@
 		 "name":"SUrrty Peasy YouTube test #1",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/1.gif",
-		 "dna": " 14 7 0 5 1 5 7 ",
+		 "dna": " 6 9 6 0 0 6 4 ",
 		 "edition":"1",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "red.gif"
+		 	 	 "value": "graveyard.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "zorg.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "stone.gif"
+		 	 	 "value": "pink.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -21,19 +29,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "pipe.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "poison.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "vest.gif"
+		 	 	 "value": "kettle.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -44,17 +44,25 @@
 		 "name":"SUrrty Peasy YouTube test #2",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/2.gif",
-		 "dna": " 13 8 1 0 1 5 2 ",
+		 "dna": " 11 4 9 0 1 6 7 ",
 		 "edition":"2",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "poneglyph.gif"
+		 	 	 "value": "orange.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "samurai.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "warmivory.gif"
+		 	 	 "value": "witch.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -62,19 +70,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "beam.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "poison.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "mantel.gif"
+		 	 	 "value": "zapp.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -85,17 +85,25 @@
 		 "name":"SUrrty Peasy YouTube test #3",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/3.gif",
-		 "dna": " 1 3 0 4 0 5 3 ",
+		 "dna": " 13 9 5 1 0 0 4 ",
 		 "edition":"3",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bluejeans.gif"
+		 	 	 "value": "poneglyph.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "zorg.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "ivory.gif"
+		 	 	 "value": "necro.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -103,19 +111,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "normal.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "beam.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "pirate.gif"
+		 	 	 "value": "kettle.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -126,17 +126,25 @@
 		 "name":"SUrrty Peasy YouTube test #4",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/4.gif",
-		 "dna": " 1 0 0 1 1 6 9 ",
+		 "dna": " 17 3 6 1 0 0 1 ",
 		 "edition":"4",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bluejeans.gif"
+		 	 	 "value": "yellow.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "brown.gif"
+		 	 	 "value": "pink.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -144,19 +152,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "beam.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "winky.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "zorg.gif"
+		 	 	 "value": "beel.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -167,17 +167,25 @@
 		 "name":"SUrrty Peasy YouTube test #5",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/5.gif",
-		 "dna": " 17 1 0 5 0 6 5 ",
+		 "dna": " 4 5 7 0 0 1 4 ",
 		 "edition":"5",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "yellow.gif"
+		 	 	 "value": "cyan.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "santa.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "cold.gif"
+		 	 	 "value": "stone.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -185,19 +193,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "pipe.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "cigar.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "winky.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "santa.gif"
+		 	 	 "value": "kettle.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -208,37 +208,37 @@
 		 "name":"SUrrty Peasy YouTube test #6",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/6.gif",
-		 "dna": " 9 0 0 0 0 5 1 ",
+		 "dna": " 6 3 6 0 1 5 2 ",
 		 "edition":"6",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "lab.gif"
+		 	 	 "value": "graveyard.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "brown.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "3Dglasses.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "beam.gif"
+		 	 	 "value": "pink.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "lee.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "pipe.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "burn.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -249,17 +249,25 @@
 		 "name":"SUrrty Peasy YouTube test #7",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/7.gif",
-		 "dna": " 1 6 1 5 1 5 0 ",
+		 "dna": " 15 0 5 0 1 6 3 ",
 		 "edition":"7",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bluejeans.gif"
+		 	 	 "value": "room.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "king.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "pink.gif"
+		 	 	 "value": "necro.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -267,19 +275,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "pipe.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "poison.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "king.gif"
+		 	 	 "value": "cyanslytherin.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -290,17 +290,25 @@
 		 "name":"SUrrty Peasy YouTube test #8",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/8.gif",
-		 "dna": " 4 0 1 0 0 1 3 ",
+		 "dna": " 6 0 2 1 1 3 0 ",
 		 "edition":"8",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "cyan.gif"
+		 	 	 "value": "graveyard.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "king.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "brown.gif"
+		 	 	 "value": "espresso.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -308,19 +316,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "beam.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "mouth1.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "beel.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "pirate.gif"
+		 	 	 "value": "abbott.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -331,17 +331,25 @@
 		 "name":"SUrrty Peasy YouTube test #9",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/9.gif",
-		 "dna": " 12 9 0 1 0 0 0 ",
+		 "dna": " 7 5 1 0 0 0 6 ",
 		 "edition":"9",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "pink.gif"
+		 	 	 "value": "green.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "santa.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "witch.gif"
+		 	 	 "value": "cold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -349,19 +357,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "beam.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "abbott.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "king.gif"
+		 	 	 "value": "winky.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -372,37 +372,37 @@
 		 "name":"SUrrty Peasy YouTube test #10",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/10.gif",
-		 "dna": " 14 3 1 1 1 3 9 ",
+		 "dna": " 1 3 7 1 0 1 7 ",
 		 "edition":"10",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "red.gif"
+		 	 	 "value": "bluejeans.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "ivory.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "blackblink.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
+		 	 	 "value": "stone.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "cyanslytherin.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "3Dglasses.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "zorg.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "cigar.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "zapp.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -413,17 +413,25 @@
 		 "name":"SUrrty Peasy YouTube test #11",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/11.gif",
-		 "dna": " 1 5 0 5 1 1 7 ",
+		 "dna": " 6 1 1 1 0 3 7 ",
 		 "edition":"11",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bluejeans.gif"
+		 	 	 "value": "graveyard.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "lee.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "necro.gif"
+		 	 	 "value": "cold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -431,19 +439,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "pipe.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "mouth1.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "beel.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "vest.gif"
+		 	 	 "value": "zapp.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -454,37 +454,37 @@
 		 "name":"SUrrty Peasy YouTube test #12",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/12.gif",
-		 "dna": " 9 5 1 5 1 2 2 ",
+		 "dna": " 11 2 8 1 0 5 6 ",
 		 "edition":"12",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "lab.gif"
+		 	 	 "value": "orange.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "mantel.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "necro.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "blackblink.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "pipe.gif"
+		 	 	 "value": "warmivory.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "burn.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "3Dglasses.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "mantel.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "pipe.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "winky.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -495,37 +495,37 @@
 		 "name":"SUrrty Peasy YouTube test #13",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/13.gif",
-		 "dna": " 4 0 0 0 1 2 7 ",
+		 "dna": " 10 0 2 1 1 0 7 ",
 		 "edition":"13",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "cyan.gif"
+		 	 	 "value": "olive.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "king.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "brown.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "3Dglasses.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "beam.gif"
+		 	 	 "value": "espresso.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "burn.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "vest.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "beam.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "zapp.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -536,37 +536,37 @@
 		 "name":"SUrrty Peasy YouTube test #14",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/14.gif",
-		 "dna": " 10 9 1 5 0 6 0 ",
+		 "dna": " 8 3 6 1 0 5 4 ",
 		 "edition":"14",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "olive.gif"
+		 	 	 "value": "grey.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "witch.gif"
+		 	 	 "value": "pink.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "blackblink.gif"
+		 	 	 "value": "3Dglasses.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
 		 	 	 "value": "pipe.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
-		 	 },
-		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "winky.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "king.gif"
+		 	 	 "value": "kettle.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -577,37 +577,37 @@
 		 "name":"SUrrty Peasy YouTube test #15",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/15.gif",
-		 "dna": " 1 9 1 2 0 7 7 ",
+		 "dna": " 17 6 4 1 0 6 0 ",
 		 "edition":"15",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bluejeans.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "witch.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "blackblink.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "drooling.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "zapp.gif"
+		 	 	 "value": "yellow.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "vest.gif"
+		 	 	 "value": "tunic.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-skin",
+		 	 	 "value": "limestone.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "3Dglasses.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "poison.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "abbott.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -618,37 +618,37 @@
 		 "name":"SUrrty Peasy YouTube test #16",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/16.gif",
-		 "dna": " 2 9 1 4 0 0 0 ",
+		 "dna": " 8 6 5 1 0 2 5 ",
 		 "edition":"16",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bricks.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "witch.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "blackblink.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "normal.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "abbott.gif"
+		 	 	 "value": "grey.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "king.gif"
+		 	 	 "value": "tunic.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-skin",
+		 	 	 "value": "necro.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "3Dglasses.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "drooling.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "ludo.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -659,17 +659,25 @@
 		 "name":"SUrrty Peasy YouTube test #17",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/17.gif",
-		 "dna": " 11 5 0 1 1 0 5 ",
+		 "dna": " 17 6 5 1 0 4 4 ",
 		 "edition":"17",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "orange.gif"
+		 	 	 "value": "yellow.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "tunic.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
 		 	 	 "value": "necro.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -677,19 +685,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "normal.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "abbott.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "santa.gif"
+		 	 	 "value": "kettle.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -700,37 +700,37 @@
 		 "name":"SUrrty Peasy YouTube test #18",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/18.gif",
-		 "dna": " 10 7 0 6 0 1 1 ",
+		 "dna": " 0 3 6 0 1 5 3 ",
 		 "edition":"18",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "olive.gif"
+		 	 	 "value": "blue.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "stone.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "3Dglasses.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "poison.gif"
+		 	 	 "value": "pink.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "beel.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "lee.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "pipe.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "cyanslytherin.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -741,17 +741,25 @@
 		 "name":"SUrrty Peasy YouTube test #19",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/19.gif",
-		 "dna": " 4 9 1 6 1 3 9 ",
+		 "dna": " 1 7 1 0 1 6 7 ",
 		 "edition":"19",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "cyan.gif"
+		 	 	 "value": "bluejeans.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "vest.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "witch.gif"
+		 	 	 "value": "cold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -762,16 +770,8 @@
 		 	 	 "value": "poison.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
-		 	 },
-		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "cyanslytherin.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "zorg.gif"
+		 	 	 "value": "zapp.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -782,17 +782,25 @@
 		 "name":"SUrrty Peasy YouTube test #20",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/20.gif",
-		 "dna": " 5 4 1 1 1 0 4 ",
+		 "dna": " 3 3 3 1 1 2 1 ",
 		 "edition":"20",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "dark.gif"
+		 	 	 "value": "clouds.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "limestone.gif"
+		 	 	 "value": "ivory.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -800,19 +808,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "drooling.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "abbott.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "samurai.gif"
+		 	 	 "value": "beel.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -823,17 +823,25 @@
 		 "name":"SUrrty Peasy YouTube test #21",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/21.gif",
-		 "dna": " 11 2 0 1 1 7 4 ",
+		 "dna": " 10 4 8 1 0 4 6 ",
 		 "edition":"21",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "orange.gif"
+		 	 	 "value": "olive.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "samurai.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "espresso.gif"
+		 	 	 "value": "warmivory.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -841,19 +849,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "normal.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "zapp.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "samurai.gif"
+		 	 	 "value": "winky.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -864,37 +864,37 @@
 		 "name":"SUrrty Peasy YouTube test #22",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/22.gif",
-		 "dna": " 16 1 0 6 0 6 5 ",
+		 "dna": " 4 3 4 0 1 0 2 ",
 		 "edition":"22",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "tosca.gif"
+		 	 	 "value": "cyan.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "cold.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "3Dglasses.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "poison.gif"
+		 	 	 "value": "limestone.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "winky.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "santa.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "beam.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "burn.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -905,37 +905,37 @@
 		 "name":"SUrrty Peasy YouTube test #23",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/23.gif",
-		 "dna": " 8 8 0 1 1 2 3 ",
+		 "dna": " 6 4 3 1 1 5 0 ",
 		 "edition":"23",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "grey.gif"
+		 	 	 "value": "graveyard.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "samurai.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "warmivory.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "3Dglasses.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
+		 	 	 "value": "ivory.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "burn.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "pirate.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "pipe.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "abbott.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -946,17 +946,25 @@
 		 "name":"SUrrty Peasy YouTube test #24",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/24.gif",
-		 "dna": " 4 5 1 3 1 0 3 ",
+		 "dna": " 1 4 5 0 1 6 6 ",
 		 "edition":"24",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "cyan.gif"
+		 	 	 "value": "bluejeans.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "samurai.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
 		 	 	 "value": "necro.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -964,19 +972,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "mouth1.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "poison.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "abbott.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "pirate.gif"
+		 	 	 "value": "winky.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -987,37 +987,37 @@
 		 "name":"SUrrty Peasy YouTube test #25",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/25.gif",
-		 "dna": " 17 8 0 1 0 4 1 ",
+		 "dna": " 11 9 9 1 1 2 4 ",
 		 "edition":"25",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "yellow.gif"
+		 	 	 "value": "orange.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "zorg.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "warmivory.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "3Dglasses.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "cigar.gif"
+		 	 	 "value": "witch.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "bluebram.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "drooling.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
 		 	 	 "value": "kettle.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "lee.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -1028,17 +1028,25 @@
 		 "name":"SUrrty Peasy YouTube test #26",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/26.gif",
-		 "dna": " 2 5 0 0 1 4 9 ",
+		 "dna": " 3 2 8 0 0 4 0 ",
 		 "edition":"26",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "bricks.gif"
+		 	 	 "value": "clouds.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "mantel.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "necro.gif"
+		 	 	 "value": "warmivory.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -1046,19 +1054,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "beam.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "normal.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "kettle.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "zorg.gif"
+		 	 	 "value": "abbott.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -1069,17 +1069,25 @@
 		 "name":"SUrrty Peasy YouTube test #27",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/27.gif",
-		 "dna": " 11 6 1 4 0 5 0 ",
+		 "dna": " 7 5 1 1 1 5 6 ",
 		 "edition":"27",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "orange.gif"
+		 	 	 "value": "green.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "santa.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "pink.gif"
+		 	 	 "value": "cold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -1087,19 +1095,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "normal.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "pipe.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "king.gif"
+		 	 	 "value": "winky.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -1110,17 +1110,25 @@
 		 "name":"SUrrty Peasy YouTube test #28",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/28.gif",
-		 "dna": " 16 5 0 3 0 3 8 ",
+		 "dna": " 5 1 6 0 0 6 0 ",
 		 "edition":"28",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "tosca.gif"
+		 	 	 "value": "dark.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "lee.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "necro.gif"
+		 	 	 "value": "pink.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -1128,19 +1136,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "mouth1.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
+		 	 	 "value": "poison.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "cyanslytherin.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "windbreaker.gif"
+		 	 	 "value": "abbott.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -1151,17 +1151,25 @@
 		 "name":"SUrrty Peasy YouTube test #29",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/29.gif",
-		 "dna": " 16 3 0 5 1 6 9 ",
+		 "dna": " 17 3 0 0 0 0 3 ",
 		 "edition":"29",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "tosca.gif"
+		 	 	 "value": "yellow.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "ivory.gif"
+		 	 	 "value": "brown.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -1169,19 +1177,11 @@
 		 	 },
 		 	 {
 		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "pipe.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
+		 	 	 "value": "beam.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "winky.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "zorg.gif"
+		 	 	 "value": "cyanslytherin.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -1192,17 +1192,25 @@
 		 "name":"SUrrty Peasy YouTube test #30",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/30.gif",
-		 "dna": " 3 8 1 2 0 5 0 ",
+		 "dna": " 6 8 5 1 1 2 1 ",
 		 "edition":"30",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "clouds.gif"
+		 	 	 "value": "graveyard.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "windbreaker.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "warmivory.gif"
+		 	 	 "value": "necro.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -1213,16 +1221,8 @@
 		 	 	 "value": "drooling.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "blackbob.gif"
-		 	 },
-		 	 {
 		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "ludo.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "king.gif"
+		 	 	 "value": "beel.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -1233,58 +1233,25 @@
 		 "name":"SUrrty Peasy YouTube test #31",
 		 "description":"i love u",
 		 "image":"https://twittercom/elonmusk/31.gif",
-		 "dna": " 17 3 1 0 1 4 4 ",
+		 "dna": " 11 8 6 0 1 2 1 ",
 		 "edition":"31",
-		 "date":"1704240415",
+		 "date":"1704269718",
 		 "attributes": [
 		 	 {
 		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "yellow.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "ivory.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "3-eyes",
-		 	 	 "value": "blackblink.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "4-mouth",
-		 	 	 "value": "beam.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "5-hair",
-		 	 	 "value": "bluebram.gif"
-		 	 },
-		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "kettle.gif"
+		 	 	 "value": "orange.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "samurai.gif"
-		 	 }
-		 ],
-		 "Compiler": "CeloPunks compiler",
-		 "Github Author": "Goldo02"
-	}
-	 ,
-	{
-		 "name":"SUrrty Peasy YouTube test #32",
-		 "description":"i love u",
-		 "image":"https://twittercom/elonmusk/32.gif",
-		 "dna": " 10 0 1 2 1 7 4 ",
-		 "edition":"32",
-		 "date":"1704240415",
-		 "attributes": [
-		 	 {
-		 	 	 "trait_type": "1-bg",
-		 	 	 "value": "olive.gif"
+		 	 	 "value": "windbreaker.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "2-skin",
-		 	 	 "value": "brown.gif"
+		 	 	 "value": "pink.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-hair",
+		 	 	 "value": "blackbob.gif"
 		 	 },
 		 	 {
 		 	 	 "trait_type": "3-eyes",
@@ -1295,16 +1262,49 @@
 		 	 	 "value": "drooling.gif"
 		 	 },
 		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "beel.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"SUrrty Peasy YouTube test #32",
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/32.gif",
+		 "dna": " 0 3 1 1 1 2 5 ",
+		 "edition":"32",
+		 "date":"1704269718",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-bg",
+		 	 	 "value": "blue.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "7-wardrobe",
+		 	 	 "value": "pirate.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-skin",
+		 	 	 "value": "cold.gif"
+		 	 },
+		 	 {
 		 	 	 "trait_type": "5-hair",
 		 	 	 "value": "bluebram.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "6-hat",
-		 	 	 "value": "zapp.gif"
+		 	 	 "trait_type": "3-eyes",
+		 	 	 "value": "blackblink.gif"
 		 	 },
 		 	 {
-		 	 	 "trait_type": "7-wardrobe",
-		 	 	 "value": "samurai.gif"
+		 	 	 "trait_type": "4-mouth",
+		 	 	 "value": "drooling.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "6-hat",
+		 	 	 "value": "ludo.gif"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
