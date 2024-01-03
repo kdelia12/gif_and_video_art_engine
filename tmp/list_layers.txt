@@ -1,0 +1,10 @@
+king.gif
+lee.gif
+mantel.gif
+pirate.gif
+samurai.gif
+santa.gif
+tunic.gif
+vest.gif
+windbreaker.gif
+zorg.gif

@@ -1,0 +1,71 @@
+1-bg
+blue.gif: 0
+bluejeans.gif: 15.625
+bricks.gif: 6.25
+clouds.gif: 3.125
+cyan.gif: 12.5
+dark.gif: 3.125
+graveyard.gif: 0
+green.gif: 0
+grey.gif: 3.125
+lab.gif: 6.25
+olive.gif: 9.375
+orange.gif: 9.375
+pink.gif: 3.125
+poneglyph.gif: 3.125
+red.gif: 6.25
+room.gif: 0
+tosca.gif: 9.375
+yellow.gif: 9.375
+
+2-skin
+brown.gif: 15.625
+cold.gif: 6.25
+espresso.gif: 3.125
+ivory.gif: 12.5
+limestone.gif: 3.125
+necro.gif: 18.75
+pink.gif: 6.25
+stone.gif: 6.25
+warmivory.gif: 12.5
+witch.gif: 15.625
+
+3-eyes
+3Dglasses.gif: 53.125
+blackblink.gif: 46.875
+
+4-mouth
+beam.gif: 18.75
+cigar.gif: 25
+drooling.gif: 9.375
+mouth1.gif: 6.25
+normal.gif: 9.375
+pipe.gif: 21.875
+poison.gif: 9.375
+
+5-hair
+blackbob.gif: 43.75
+bluebram.gif: 56.25
+
+6-hat
+abbott.gif: 15.625
+beel.gif: 9.375
+burn.gif: 9.375
+cyanslytherin.gif: 9.375
+kettle.gif: 9.375
+ludo.gif: 21.875
+winky.gif: 15.625
+zapp.gif: 9.375
+
+7-wardrobe
+king.gif: 18.75
+lee.gif: 9.375
+mantel.gif: 6.25
+pirate.gif: 12.5
+samurai.gif: 12.5
+santa.gif: 9.375
+tunic.gif: 0
+vest.gif: 12.5
+windbreaker.gif: 3.125
+zorg.gif: 15.625
+

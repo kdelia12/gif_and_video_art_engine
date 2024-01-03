@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
         srand(time(NULL));
         const int scale = 240;
         const string outputFormat = "gif";
-        const bool randomized = false;
+        const bool randomized = true;
         const bool unique = true;
         const bool shuffleOutput = false;
         vector<int> collectionSize = {32};
