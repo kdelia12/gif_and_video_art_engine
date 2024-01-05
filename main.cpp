@@ -21,13 +21,13 @@ int main(int argc, char *argv[])
         const bool randomized = true;
         const bool unique = true;
         const bool shuffleOutput = false;
-        vector<int> collectionSize = {32};
+        vector<int> collectionSize = {5555};
         const vector<vector<string>> layerDir = 
         {
         {"1-bg", "7-wardrobe","2-skin", "5-hair", "3-eyes", "4-mouth", "6-hat"}
         };
         
-        const string name = "SUrrty Peasy YouTube test";
+        const string name = "Test";
         const string description = "i love u";
         const string baseUri = "https://twittercom/elonmusk";
         const vector<pair<string,string>> extraMetadata = 
