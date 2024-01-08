@@ -1,0 +1,52 @@
+{
+	 "name":"Test #3255",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
+	 "description":"i love u",
+	 "seller_fee_basis_points":1000,
+	 "image":"3254.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 13 4 6 8 11 9 0 ",
+	 "edition":3254,
+	 "date":"1704729489",
+	 "attributes": [
+	 	 {
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "pink"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "lee"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "pink"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "brown aoki"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "3-eyes",
+	 	 	 "value": "raiden blink"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "pipe"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "abbott"
+	 	 }
+	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "3254.gif", "type": "image/gif"}]
+	 },
+	 "Compiler": "CeloPunks compiler",
+	 "Github Author": "Goldo02"
+}

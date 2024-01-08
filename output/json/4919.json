@@ -1,0 +1,52 @@
+{
+	 "name":"Test #4920",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
+	 "description":"i love u",
+	 "seller_fee_basis_points":1000,
+	 "image":"4919.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 19 9 3 23 0 5 3 ",
+	 "edition":4919,
+	 "date":"1704729493",
+	 "attributes": [
+	 	 {
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "yellow"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "pirate"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "ivory"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "white mingyu"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "3-eyes",
+	 	 	 "value": "3D glasses"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "mouth 3"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "brown helga"
+	 	 }
+	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "4919.gif", "type": "image/gif"}]
+	 },
+	 "Compiler": "CeloPunks compiler",
+	 "Github Author": "Goldo02"
+}

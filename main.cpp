@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 {
     if(argc>=2){
         srand(time(NULL));
-        const int scale = 240;
+        const int scale = 720;
         const string outputFormat = "gif";
         const bool randomized = true;
         const bool unique = true;
@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
         vector<int> collectionSize = {5555};
         const vector<vector<string>> layerDir = 
         {
-        {"1-bg", "7-wardrobe","2-skin", "5-hair", "3-eyes", "4-mouth", "6-hat"}
+        {"7-bg", "6-wardrobe","5-skin", "4-hair", "3-eyes", "2-mouth", "1-hat"}
         };
         
         const string name = "Test";

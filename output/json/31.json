@@ -1,40 +1,52 @@
 {
-	 "name":"SUrrty Peasy YouTube test #31",
+	 "name":"Test #32",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
 	 "description":"i love u",
-	 "image":"https://twittercom/elonmusk/31.gif",
-	 "dna": " 11 8 6 0 1 2 1 ",
-	 "edition":"31",
-	 "date":"1704269718",
+	 "seller_fee_basis_points":1000,
+	 "image":"31.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 13 8 7 8 6 2 12 ",
+	 "edition":31,
+	 "date":"1704729485",
 	 "attributes": [
 	 	 {
-	 	 	 "trait_type": "1-bg",
-	 	 	 "value": "orange.gif"
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "pink"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "7-wardrobe",
-	 	 	 "value": "windbreaker.gif"
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "navy suit"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "2-skin",
-	 	 	 "value": "pink.gif"
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "stone"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "5-hair",
-	 	 	 "value": "blackbob.gif"
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "brown aoki"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-eyes",
-	 	 	 "value": "blackblink.gif"
+	 	 	 "value": "green blink"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "4-mouth",
-	 	 	 "value": "drooling.gif"
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "drooling"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "6-hat",
-	 	 	 "value": "beel.gif"
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "purple basic wiz"
 	 	 }
 	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "31.gif", "type": "image/gif"}]
+	 },
 	 "Compiler": "CeloPunks compiler",
 	 "Github Author": "Goldo02"
 }

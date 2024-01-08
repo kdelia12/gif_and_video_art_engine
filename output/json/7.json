@@ -1,40 +1,52 @@
 {
-	 "name":"SUrrty Peasy YouTube test #7",
+	 "name":"Test #8",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
 	 "description":"i love u",
-	 "image":"https://twittercom/elonmusk/7.gif",
-	 "dna": " 15 0 5 0 1 6 3 ",
-	 "edition":"7",
-	 "date":"1704269718",
+	 "seller_fee_basis_points":1000,
+	 "image":"7.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 19 10 1 11 18 8 22 ",
+	 "edition":7,
+	 "date":"1704729485",
 	 "attributes": [
 	 	 {
-	 	 	 "trait_type": "1-bg",
-	 	 	 "value": "room.gif"
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "yellow"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "7-wardrobe",
-	 	 	 "value": "king.gif"
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "purple cloak"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "2-skin",
-	 	 	 "value": "necro.gif"
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "cold"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "5-hair",
-	 	 	 "value": "blackbob.gif"
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "handlebar"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-eyes",
-	 	 	 "value": "blackblink.gif"
+	 	 	 "value": "side eyes"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "4-mouth",
-	 	 	 "value": "poison.gif"
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "normal"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "6-hat",
-	 	 	 "value": "cyanslytherin.gif"
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "winky"
 	 	 }
 	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "7.gif", "type": "image/gif"}]
+	 },
 	 "Compiler": "CeloPunks compiler",
 	 "Github Author": "Goldo02"
 }

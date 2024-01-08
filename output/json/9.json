@@ -1,40 +1,52 @@
 {
-	 "name":"SUrrty Peasy YouTube test #9",
+	 "name":"Test #10",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
 	 "description":"i love u",
-	 "image":"https://twittercom/elonmusk/9.gif",
-	 "dna": " 7 5 1 0 0 0 6 ",
-	 "edition":"9",
-	 "date":"1704269718",
+	 "seller_fee_basis_points":1000,
+	 "image":"9.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 7 11 8 9 6 3 2 ",
+	 "edition":9,
+	 "date":"1704729485",
 	 "attributes": [
 	 	 {
-	 	 	 "trait_type": "1-bg",
-	 	 	 "value": "green.gif"
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "graveyard"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "7-wardrobe",
-	 	 	 "value": "santa.gif"
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "purple witcher"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "2-skin",
-	 	 	 "value": "cold.gif"
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "warm ivory"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "5-hair",
-	 	 	 "value": "blackbob.gif"
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "brown mingyu"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-eyes",
-	 	 	 "value": "3Dglasses.gif"
+	 	 	 "value": "green blink"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "4-mouth",
-	 	 	 "value": "beam.gif"
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "mouth 1"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "6-hat",
-	 	 	 "value": "winky.gif"
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "blue wilbert"
 	 	 }
 	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "9.gif", "type": "image/gif"}]
+	 },
 	 "Compiler": "CeloPunks compiler",
 	 "Github Author": "Goldo02"
 }

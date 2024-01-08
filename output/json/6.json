@@ -1,40 +1,52 @@
 {
-	 "name":"SUrrty Peasy YouTube test #6",
+	 "name":"Test #7",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
 	 "description":"i love u",
-	 "image":"https://twittercom/elonmusk/6.gif",
-	 "dna": " 6 3 6 0 1 5 2 ",
-	 "edition":"6",
-	 "date":"1704269718",
+	 "seller_fee_basis_points":1000,
+	 "image":"6.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 13 26 1 7 18 5 16 ",
+	 "edition":6,
+	 "date":"1704729485",
 	 "attributes": [
 	 	 {
-	 	 	 "trait_type": "1-bg",
-	 	 	 "value": "graveyard.gif"
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "pink"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "7-wardrobe",
-	 	 	 "value": "pirate.gif"
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "zorg"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "2-skin",
-	 	 	 "value": "pink.gif"
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "cold"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "5-hair",
-	 	 	 "value": "blackbob.gif"
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "blue orion"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-eyes",
-	 	 	 "value": "blackblink.gif"
+	 	 	 "value": "side eyes"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "4-mouth",
-	 	 	 "value": "pipe.gif"
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "mouth 3"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "6-hat",
-	 	 	 "value": "burn.gif"
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "red godric"
 	 	 }
 	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "6.gif", "type": "image/gif"}]
+	 },
 	 "Compiler": "CeloPunks compiler",
 	 "Github Author": "Goldo02"
 }

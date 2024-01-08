@@ -1,40 +1,52 @@
 {
-	 "name":"SUrrty Peasy YouTube test #25",
+	 "name":"Test #26",
+	 "symbol":"CP",
+	 "collection":{"name":"Test","family":"celopunks family"},
 	 "description":"i love u",
-	 "image":"https://twittercom/elonmusk/25.gif",
-	 "dna": " 11 9 9 1 1 2 4 ",
-	 "edition":"25",
-	 "date":"1704269718",
+	 "seller_fee_basis_points":1000,
+	 "image":"25.gif",
+	 "external_url":"www.google.it",
+	 "dna": " 9 6 4 14 10 7 3 ",
+	 "edition":25,
+	 "date":"1704729485",
 	 "attributes": [
 	 	 {
-	 	 	 "trait_type": "1-bg",
-	 	 	 "value": "orange.gif"
+	 	 	 "trait_type": "7-bg",
+	 	 	 "value": "grey"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "7-wardrobe",
-	 	 	 "value": "zorg.gif"
+	 	 	 "trait_type": "6-wardrobe",
+	 	 	 "value": "navy cloak"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "2-skin",
-	 	 	 "value": "witch.gif"
+	 	 	 "trait_type": "5-skin",
+	 	 	 "value": "limestone"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "5-hair",
-	 	 	 "value": "bluebram.gif"
+	 	 	 "trait_type": "4-hair",
+	 	 	 "value": "og white"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-eyes",
-	 	 	 "value": "blackblink.gif"
+	 	 	 "value": "raiden"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "4-mouth",
-	 	 	 "value": "drooling.gif"
+	 	 	 "trait_type": "2-mouth",
+	 	 	 "value": "mouth 5"
 	 	 },
 	 	 {
-	 	 	 "trait_type": "6-hat",
-	 	 	 "value": "kettle.gif"
+	 	 	 "trait_type": "1-hat",
+	 	 	 "value": "brown helga"
 	 	 }
 	 ],
+	 "properties": {
+	 	 "creators": [
+	 	 	 {"address": "1312s21s12s21s21s1", "share": 50},
+	 	 	 {"address": "dsadasd2111d12d", "share": 50}
+	 	 ],
+	 	 "category": "image",
+	 	 "files": [{"uri": "25.gif", "type": "image/gif"}]
+	 },
 	 "Compiler": "CeloPunks compiler",
 	 "Github Author": "Goldo02"
 }
